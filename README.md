@@ -1,1 +1,1 @@
-A simple messaging app for ios 
+A simple messaging app for ios using google firebase
